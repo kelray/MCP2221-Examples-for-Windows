@@ -1,5 +1,5 @@
 This repository has all examples I have created for the MCP2221 USB-to-I2C/UART chip from Microchip. This chip is like a swiss army knife that you can use to proof of concept any new I2C or UART based system, whether it's a chip or a full embedded system. 
-All examples compile and run under Windows OS, all examples use Microchip library and DLL for the MCP2221 available at:https://www.microchip.com/wwwproducts/en/MCP2221A
+All examples compile and run under Windows OS, all examples use Microchip library and DLL for the MCP2221 available at: https://www.microchip.com/wwwproducts/en/MCP2221A
 
 The examples are for interfacing the MCP2221 via I2C with following sensors/modules:
 - MCP4725 12-bit D/A.
