@@ -10,7 +10,7 @@ The examples are for interfacing the MCP2221 via I2C with following sensors/modu
 - INA219 digital output power monitor.
 - AMC6821 stand-alone PWM Controller.
 - MCP23008 and MCP23018 I2C I/O Expanders.
-- I2C slave devices scanner (scans I2C bus and lists all connected devices).
+- I2C scanner, scans I2C bus and lists all connected slave devices.
 
 To use the examples under Linux you might need to look into setting up the MCP2221 as an I2C adapter then use existing I2C functions in Linux native C headers. These are the steps to set up the MCP2221 as an I2C adapter (tested on Raspberry Pi):
 - sudo apt-get upgrade
